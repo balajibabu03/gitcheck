@@ -8,4 +8,4 @@ Plant
 Diet
 cooked new dish - not sure
 html and css
-Removed Remote changes
+Removed Remote changes - local feature
